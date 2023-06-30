@@ -5,7 +5,7 @@
     {"id": 3, "name":"Laurel", "department":"QA", "designation": "Tester", "email":"laural@xyz.com"},
      {"id": 4, "name":"Kate", "department":"IT", "designation": "Developer", "email":"kate@xyz.com"},
      {"id": 5, "name":"Emma", "department":"Sales", "designation": "Analyst", "email":"emma@xyz.com"},
-    {"id": 6, "name":"Emma", "department":"Sales", "designation": "Analyst", "email":"emma@xyz.com"}
+    {"id": 6, "name":"Emmas", "department":"Sales", "designation": "Analyst", "email":"emma@xyz.com"}
   
     
   ]
